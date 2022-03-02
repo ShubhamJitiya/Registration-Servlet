@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/web/index.html</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/web/Register.html</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/src/java/com/register/Servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/src/java/com/register/dao/RegisterDao.java</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/src/java/com/register/conn/DBConnect.java</file>
+            <file>file:/C:/Users/jitiy/Netbeans/JavaTpoint/Servlet/Registration/src/java/com/register/bean/RegisterBean.java</file>
+        </group>
+    </open-files>
+</project-private>
